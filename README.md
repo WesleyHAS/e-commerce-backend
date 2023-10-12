@@ -8,7 +8,8 @@ This project is the backend for an E-Commerce site using Express, MySQL and Sequ
 
 ## Screenshots
 
-![Screentshot 1]()
+![Screentshot 1](./assets/images/Screenshot%202023-10-12%20113020.png)
+![Screentshot 2](./assets/images/Screenshot%202023-10-12%20113034.png)
 
 ## Table of Contents
 
@@ -27,9 +28,11 @@ To install the proper dependencies please use 'npm i'.
 
 ## Usage
 
-N/A
+Source the schema file and then npm run seed to populate the db. Start the server and you are ready to start testing with Insomnia. Here is a [walkthrough](https://drive.google.com/file/d/15WB276yWC_ihroZxC3_HGRlrwsJvgiwM/view).
 
 ## Credits
+
+[Starter code](https://github.com/coding-boot-camp/fantastic-umbrella)
 
 https://sequelize.org/docs/v6/core-concepts/model-basics/
 
